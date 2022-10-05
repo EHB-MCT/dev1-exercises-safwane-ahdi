@@ -65,21 +65,21 @@ function drawLine() {
     //LETTER F
 
     context.lineWidth = 5;
-    context.strokeStyle = 'red';
+    context.strokeStyle = 'green';
     context.beginPath();
     context.moveTo(105, 60);
     context.lineTo(105, 110);
     context.stroke();
 
     context.lineWidth = 5;
-    context.strokeStyle = 'red';
+    context.strokeStyle = 'green';
     context.beginPath();
     context.moveTo(105, 60);
     context.lineTo(120, 60);
     context.stroke();
 
     context.lineWidth = 5;
-    context.strokeStyle = 'red';
+    context.strokeStyle = 'green';
     context.beginPath();
     context.moveTo(90, 80);
     context.lineTo(120, 80);
@@ -88,28 +88,28 @@ function drawLine() {
     //LETTER W
 
     context.lineWidth = 5;
-    context.strokeStyle = 'red';
+    context.strokeStyle = 'yellow';
     context.beginPath();
     context.moveTo(135, 70);
     context.lineTo(145, 110);
     context.stroke();
 
     context.lineWidth = 5;
-    context.strokeStyle = 'red';
+    context.strokeStyle = 'yellow';
     context.beginPath();
     context.moveTo(155, 85);
     context.lineTo(145, 110);
     context.stroke();
 
     context.lineWidth = 5;
-    context.strokeStyle = 'red';
+    context.strokeStyle = 'yellow';
     context.beginPath();
     context.moveTo(170, 110);
     context.lineTo(155, 85);
     context.stroke();
 
     context.lineWidth = 5;
-    context.strokeStyle = 'red';
+    context.strokeStyle = 'yellow';
     context.beginPath();
     context.moveTo(170, 110);
     context.lineTo(180, 70);
@@ -118,28 +118,28 @@ function drawLine() {
     //LETTER A
 
     context.lineWidth = 5;
-    context.strokeStyle = 'red';
+    context.strokeStyle = 'orange';
     context.beginPath();
     context.moveTo(210, 70);
     context.lineTo(190, 90);
     context.stroke();
     
     context.lineWidth = 5;
-    context.strokeStyle = 'red';
+    context.strokeStyle = 'orange';
     context.beginPath();
     context.moveTo(200, 110);
     context.lineTo(190, 90);
     context.stroke();
 
     context.lineWidth = 5;
-    context.strokeStyle = 'red';
+    context.strokeStyle = 'orange';
     context.beginPath();
     context.moveTo(200, 110);
     context.lineTo(210, 90);
     context.stroke();
 
     context.lineWidth = 5;
-    context.strokeStyle = 'red';
+    context.strokeStyle = 'orange';
     context.beginPath();
     context.moveTo(210, 70);
     context.lineTo(210, 110);
@@ -148,21 +148,21 @@ function drawLine() {
     //LETTER N
 
     context.lineWidth = 5;
-    context.strokeStyle = 'red';
+    context.strokeStyle = 'pink';
     context.beginPath();
     context.moveTo(230, 70);
     context.lineTo(230, 110);
     context.stroke();
 
     context.lineWidth = 5;
-    context.strokeStyle = 'red';
+    context.strokeStyle = 'pink';
     context.beginPath();
     context.moveTo(230, 85);
     context.lineTo(250, 70);
     context.stroke();
 
     context.lineWidth = 5;
-    context.strokeStyle = 'red';
+    context.strokeStyle = 'pink';
     context.beginPath();
     context.moveTo(250, 70);
     context.lineTo(250, 110);
@@ -171,42 +171,42 @@ function drawLine() {
     //LETTER E
 
     context.lineWidth = 5;
-    context.strokeStyle = 'red';
+    context.strokeStyle = 'purple';
     context.beginPath();
     context.moveTo(265, 85);
     context.lineTo(280, 70);
     context.stroke();
 
     context.lineWidth = 5;
-    context.strokeStyle = 'red';
+    context.strokeStyle = 'purple';
     context.beginPath();
     context.moveTo(280, 70);
     context.lineTo(295, 85);
     context.stroke();
 
     context.lineWidth = 5;
-    context.strokeStyle = 'red';
+    context.strokeStyle = 'purple';
     context.beginPath();
     context.moveTo(265, 85);
     context.lineTo(295, 85);
     context.stroke();
 
     context.lineWidth = 5;
-    context.strokeStyle = 'red';
+    context.strokeStyle = 'purple';
     context.beginPath();
     context.moveTo(265, 85);
     context.lineTo(280, 110);
     context.stroke();
 
     context.lineWidth = 5;
-    context.strokeStyle = 'red';
+    context.strokeStyle = 'purple';
     context.beginPath();
     context.moveTo(265, 85);
     context.lineTo(280, 110);
     context.stroke();
 
     context.lineWidth = 5;
-    context.strokeStyle = 'red';
+    context.strokeStyle = 'purple';
     context.beginPath();
     context.moveTo(295, 95);
     context.lineTo(280, 110);
