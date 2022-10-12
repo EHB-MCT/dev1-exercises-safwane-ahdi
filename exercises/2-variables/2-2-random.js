@@ -55,3 +55,6 @@ drawRect();
 drawRect();
 drawRect();
 drawRect();
+drawRect();
+drawRect();
+drawRect();
