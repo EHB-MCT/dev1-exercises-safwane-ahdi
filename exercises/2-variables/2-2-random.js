@@ -25,6 +25,7 @@ context.fillRect(randomX, randomY, size, size);
 let size = 500;
 let positionX = 100;
 let positionY = 100;
+let i = 0;
 
 function randomColor () {
     let r = Math.floor(Math.random() * 255);
@@ -47,14 +48,8 @@ function changeSizeRect(){
     size = size - 50;
 }
 
-drawRect();
-drawRect();
-drawRect();
-drawRect();
-drawRect();
-drawRect();
-drawRect();
-drawRect();
-drawRect();
-drawRect();
-drawRect();
+
+while (i < 10) {
+    drawRect();
+    i++;
+}
